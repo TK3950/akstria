@@ -2,6 +2,7 @@
 //																	//
 //					Notes on Word Generation Algorithms				//
 //						(c) Timothy Kersten							//
+//																	//
 //////////////////////////////////////////////////////////////////////
 
 /*
