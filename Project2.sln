@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "Project2\Project2.csproj", "{C1F8AAD1-3816-4875-86D4-6DBA1E57B382}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "akstria", "Project2\akstria.csproj", "{C1F8AAD1-3816-4875-86D4-6DBA1E57B382}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E63637B7-9476-4ADA-84B5-E2D9379A2117}"
 	ProjectSection(SolutionItems) = preProject
