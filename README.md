@@ -4,7 +4,7 @@ This is an old project from when I first learned how to create forms in C#. The 
 Build a program that randomly creates fictional "words" for the user. The idea behind it was to create large wordlists that the user can look through, picking words to build a fantasy langauge. After proving the concept with a character-by-character algorithm, I designed a syllable-based algoritm to improve the amount of usable words that the program outputs. Below is a description of the current algorithm, organized according to what happens when one of the buttons is pressed.
 
 #Generate
-	[button1_Click]
+[button1_Click]
 -String arrays for all syllable types are created, then populated with the contents of their respective text boxes.
 
 --createWords method is called with these arrays and the result of method trackBarSums as parameters
@@ -40,7 +40,7 @@ Build a program that randomly creates fictional "words" for the user. The idea b
 ------And the main textbox is manually updated for each word.
 					
 #Clear
-	[button2_Click]
+[button2_Click]
 --The main textbox is cleared, then manually updated
 
 #Save
@@ -48,8 +48,11 @@ Build a program that randomly creates fictional "words" for the user. The idea b
 --Basic steps to save the generated wordlist to a file, look this up elsewhere if it's hard to understand
 
 #Test RNG
-	[button3_Click]
+[button3_Click]
 --All trackbars are zeroed out
+
 --For 400 iterations
+
 ---A trackbar is chosen randomly with getSeed and has its value incremented
+
 --The weights of these are then displayed in the main textbox (weights should be around 36 +/- ~11)
