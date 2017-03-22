@@ -31,9 +31,9 @@ Build a program that randomly creates fictional "words" for the user. The idea b
 	button4_Click
 			Basic steps to save the generated wordlist to a file, look this up elsewhere if it's hard to understand
 
-	#Test RNG
-		button3_Click
-			All trackbars are zeroed out
-			For 400 iterations
-				A trackbar is chosen randomly with getSeed and has its value incremented
-			The weights of these are then displayed in the main textbox (weights should be around 36 +/- ~11)
+#Test RNG
+	button3_Click
+		All trackbars are zeroed out
+		For 400 iterations
+			A trackbar is chosen randomly with getSeed and has its value incremented
+		The weights of these are then displayed in the main textbox (weights should be around 36 +/- ~11)
